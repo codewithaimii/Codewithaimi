@@ -1,16 +1,10 @@
-# Hello! I'm AIMAN BIBI- AI/ML Engineer
-I'm a passionate Software Engineer & AI/ML Enthusiast with a drive for building efficient, scalable, and intelligent applications that solve real-world challenges. I specialize in designing, developing, and deploying full-stack and AI-powered solutions, with a focus on crafting clean code, innovative systems, and impactful machine learning models.                                             
+# Hello! I'm AIMAN BIBI- AI/ML Engineer          
+I'm a passionate Software Engineer & AI/ML Enthusiast with a drive for building efficient, scalable, and intelligent applications that solve real-world challenges. I specialize in designing, developing, and deploying full-stack and AI-powered solutions, with a focus on crafting clean code, innovative systems, and impactful machine learning models.                                     
 •	BS software engineering Graduate | 🇵🇰         
 •	Full-Stack Development | Artificial Intelligence | Machine Learning & Deep Learning Enthusiast       
 •	To harness the power of AI and ML to create impactful, scalable, and ethical solutions that drive progress.     
 •	Open to collaboration on Software engineering, AI/ML, web development, and open-source research projects
-
-________________________________________
-# What I Do
-•	AI & Machine Learning → Predictive Modeling, Sentiment Analysis, Deep Learning, NLP basics   
-•	Web Development → React.js, PHP, HTML/CSS, WordPress        
-•	SEO & Digital Marketing → Keyword Research, Technical SEO, Google Analytics/Search Console        
-•	Databases → MySQL, SQL Server   
+ 
 ________________________________________
 # Skills & Expertise
 
