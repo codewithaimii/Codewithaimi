@@ -1,11 +1,10 @@
 # Hello! I'm AIMAN BIBI- AI/ML Engineer
-
-Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with a knack for building intelligent systems that solve real-world problems. I specialize in designing, developing, and deploying machine learning models, with a focus on creating innovative solutions that push the boundaries of artificial intelligence.
-
+I'm a passionate Software Engineer & AI/ML Enthusiast with a drive for building efficient, scalable, and intelligent applications that solve real-world challenges. I specialize in designing, developing, and deploying full-stack and AI-powered solutions, with a focus on crafting clean code, innovative systems, and impactful machine learning models.                                             
 •	BS software engineering Graduate | 🇵🇰         
-•	AI, Machine Learning & Deep Learning Enthusiast       
+•	Full-Stack Development | Artificial Intelligence | Machine Learning & Deep Learning Enthusiast       
 •	To harness the power of AI and ML to create impactful, scalable, and ethical solutions that drive progress.     
-•	Open to collaboration on AI, ML, and Research Projects
+•	Open to collaboration on Software engineering, AI/ML, web development, and open-source research projects
+
 ________________________________________
 # What I Do
 •	AI & Machine Learning → Predictive Modeling, Sentiment Analysis, Deep Learning, NLP basics   
@@ -14,14 +13,19 @@ ________________________________________
 •	Databases → MySQL, SQL Server   
 ________________________________________
 # Skills & Expertise
-Programming Languages: Python, C++
-Machine Learning: Scikit-learn, XGBoost, LightGBM
-Deep Learning: TensorFlow, Keras, PyTorch, Hugging Face
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-Natural Language Processing (NLP): NLTK, SpaCy, Hugging Face Transformers
-AI Applications: Sentiment Analysis, Mental Health Monitoring, Predictive Modeling
-Tools & Platforms: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub
-Other Skills: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)
+
+ Programming languages:  Python, C++, JavaScript, PHP, SQL, HTML5, CSS3 | React.js, Bootstrap | DSA, OOP, Software Engineering Principles
+
+ AI & Machine Learning:   TensorFlow, PyTorch, Keras, Hugging Face, Scikit-learn, XGBoost, LightGBM | NLP (NLTK, spaCy, Transformers)
+
+ Data Science & Visualization:  Pandas, NumPy | Matplotlib, Seaborn, Plotly | Data Cleaning, Feature Engineering, EDA
+
+ Tools & Platforms:    Git, GitHub, VS Code, Jupyter, Colab, Postman | MySQL, SQL Server, MongoDB | Agile/Scrum
+
+ Deployment & Cloud:  Streamlit, FastAPI, Flask | Docker, GitHub Actions (CI/CD), GCP, Azure (fundamentals)
+
+ Other Skills:    SEO basics (Google Analytics/Search Console) | Web Apps (Portfolio, CMS, DB-driven systems) | Problem-Solving, Team Collaboration
+ 
 ________________________________________
 # Certifications
 •	Machine Learning – Coursera       
