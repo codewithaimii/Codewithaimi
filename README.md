@@ -11,7 +11,17 @@ ________________________________________
 •	AI & Machine Learning → Predictive Modeling, Sentiment Analysis, Deep Learning, NLP basics   
 •	Web Development → React.js, PHP, HTML/CSS, WordPress        
 •	SEO & Digital Marketing → Keyword Research, Technical SEO, Google Analytics/Search Console        
-•	Databases → MySQL, SQL Server     
+•	Databases → MySQL, SQL Server   
+________________________________________
+# Skills & Expertise
+Programming Languages: Python, C++
+Machine Learning: Scikit-learn, XGBoost, LightGBM
+Deep Learning: TensorFlow, Keras, PyTorch, Hugging Face
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Natural Language Processing (NLP): NLTK, SpaCy, Hugging Face Transformers
+AI Applications: Sentiment Analysis, Mental Health Monitoring, Predictive Modeling
+Tools & Platforms: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub
+Other Skills: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)
 ________________________________________
 # Certifications
 •	Machine Learning – Coursera       
